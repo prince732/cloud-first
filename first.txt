@@ -1,0 +1,3 @@
+*Git merge:
+           Isolating feature into different branch is a crucia practice for any serious developer.
+           At some point, a piece of code will reach a state where you'll want to integrate it with the rest of the pr           oject.
